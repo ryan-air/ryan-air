@@ -1,4 +1,4 @@
-![](https://github.com/ryan-air/ryan-air/blob/main/pacman.gif) 
+![](https://github.com/ryan-air/ryan-air/blob/main/pacman.gif) [loop] 
 
 
 <!--
