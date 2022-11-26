@@ -1,8 +1,4 @@
-
-<p float="left">
-  <img src="https://github.com/ryan-air/ryan-air/blob/main/test.png"/>
-  <img src="https://github.com/ryan-air/ryan-air/blob/main/new.gif"/>
-</p>
+![alt-text-1](image1.png "https://github.com/ryan-air/ryan-air/blob/main/test.png") ![alt-text-2](image2.png "https://github.com/ryan-air/ryan-air/blob/main/new.gif")
 
 
 <!--
