@@ -15,8 +15,8 @@ Hi everyone! I'm Ryan, a high school student with an extreme passion for compute
 🌱 &nbsp; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque molestie malesuada lorem, vel ultricies nunc vestibulum non. \
 ✍️ &nbsp; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque molestie malesuada lorem, vel ultricies nunc vestibulum non. \
 💬 &nbsp; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque molestie malesuada lorem, vel ultricies nunc vestibulum non. \
-✉️ &nbsp; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque molestie malesuada lorem, vel ultricies nunc vestibulum non. \
-📄 &nbsp; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque molestie malesuada lorem, vel ultricies nunc vestibulum non. 
+✉️ &nbsp; Feel free to contact me on my [email]() regarding anything.\
+💼 &nbsp; Resume coming soon!
 
 ### 👾 Programming Languages
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp; 
