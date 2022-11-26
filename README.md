@@ -1,6 +1,9 @@
 ![](https://github.com/ryan-air/ryan-air/blob/main/pacman2.gif) 
 
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ryan-air/count.svg" />
+</p>
 
 <!--
 **ryan-air/ryan-air** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
