@@ -9,12 +9,10 @@ Hi everyone! I'm Ryan, a high school student with an extreme passion for compute
 
 ### 👨🏽‍💻 About me 
 
-💡 &nbsp; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque molestie malesuada lorem, vel ultricies nunc vestibulum non. \
-💻 &nbsp; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque molestie malesuada lorem, vel ultricies nunc vestibulum non. \
-🎓&nbsp; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque molestie malesuada lorem, vel ultricies nunc vestibulum non. \
-🌱 &nbsp; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque molestie malesuada lorem, vel ultricies nunc vestibulum non. \
-✍️ &nbsp; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque molestie malesuada lorem, vel ultricies nunc vestibulum non. \
-💬 &nbsp; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque molestie malesuada lorem, vel ultricies nunc vestibulum non. \
+👨🏽 &nbsp; I'm a 16 year old highschool student. \
+📖 &nbsp; An IBDP student pursuing Maths AA HL, Physics HL and Chemistry HL aiming to go to university for engineering/comp sci. \
+🎓&nbsp; Ready to graduate in one and a half years! \
+💻 &nbsp; My latest project was to create a program using machine learning techniques to aid in autmotive design \
 ✉️ &nbsp; Feel free to contact me on my [email]() regarding anything.\
 💼 &nbsp; Resume coming soon!
 
