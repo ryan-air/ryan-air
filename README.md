@@ -24,7 +24,6 @@ Hi everyone! I'm Ryan, a high school student with an extreme passion for compute
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![HTML](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=Swift)&nbsp;
 ![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=Swift)&nbsp;
 
 
