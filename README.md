@@ -1,6 +1,5 @@
 ![](https://github.com/ryan-air/ryan-air/blob/main/pacman2.gif) 
 
-yo yo yo welcome
 
 
 <!--
