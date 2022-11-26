@@ -23,6 +23,7 @@ Hi everyone! I'm Ryan, a high school student with an extreme passion for compute
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=Swift)&nbsp;
+![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=Lua)&nbsp;
 
 
 
