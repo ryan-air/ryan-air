@@ -11,8 +11,8 @@ Hi everyone! I'm Ryan, a high school student with an extreme passion for compute
 
 👨🏽 &nbsp; I'm a 16 year old highschool student. \
 📖 &nbsp; In IBDP and pursuing Maths AA HL, Physics HL and Chemistry HL aiming to go to university for engineering/comp sci. \
-🎓&nbsp; Ready to graduate in one and a half years! \
-💻 &nbsp; My latest project was where I created a program using machine learning techniques to aid in autmotive design \
+🎓&nbsp; Ready to graduate in one year! \
+💻 &nbsp; My [latest project](http://youngscientistjournal.org/youngscientistjournal/article/employing-machine-learning-techniques-and-frameworks-to-aid-with-automotive-design) was where I created a program using machine learning techniques to aid in automotive design \
 ✉️ &nbsp; Feel free to contact me on my [email]() regarding anything.\
 💼 &nbsp; Resume coming soon!
 
